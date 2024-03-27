@@ -4,4 +4,8 @@ Una App para realizar transferencias fácilmente en Costa Rica. Actualmente usab
 
 ## DISCLAIMER
 
-Al descargar, instalar y utilizar está aplicación, libras al equipo desarrollador de la responsabilidad en el caso de realizar transacciones érroneas o accidentales. El manejo de las transacciones es responsabilidad del usuario. 
+Al descargar, instalar y utilizar está aplicación, libras al equipo desarrollador de la responsabilidad en el caso de realizar transacciones érroneas o accidentales. El manejo de las transacciones es responsabilidad del usuario.
+
+## DESCARGA
+
+Puedes descargar la aplicación através del [siguiente enlace]([https://github.com/user/repo/blob/branch/other_file.md](https://github.com/pabloguerrero16/App-Transferencias/raw/flutterflow/EasyTransfer.apk)https://github.com/pabloguerrero16/App-Transferencias/raw/flutterflow/EasyTransfer.apk)
