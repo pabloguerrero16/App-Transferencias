@@ -8,4 +8,4 @@ Al descargar, instalar y utilizar está aplicación, libras al equipo desarrolla
 
 ## DESCARGA
 
-Puedes descargar la aplicación através del [siguiente enlace]([https://github.com/user/repo/blob/branch/other_file.md](https://github.com/pabloguerrero16/App-Transferencias/raw/flutterflow/EasyTransfer.apk)https://github.com/pabloguerrero16/App-Transferencias/raw/flutterflow/EasyTransfer.apk)
+Puedes descargar la aplicación através del [siguiente enlace](https://github.com/pabloguerrero16/App-Transferencias/raw/flutterflow/EasyTransfer.apk)
